@@ -1,0 +1,5 @@
+zapi/DOM/TestStespDOM.class
+zapi/Utils/ConnectionUtils.class
+zapi/DOM/Cycle/CreateTestCycleDOM.class
+zapi/prototytpe/ConnectionManager.class
+zapi/Utils/PropertiesParser.class

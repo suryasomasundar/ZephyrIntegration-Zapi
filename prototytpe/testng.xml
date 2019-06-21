@@ -1,0 +1,7 @@
+<suite name="zapi.prototytpe">
+ <test name="testngTest">
+ <classes>
+ <class name="zapi.prototytpe.MyVestTest"/>
+ </classes>
+ </test>
+</suite>
