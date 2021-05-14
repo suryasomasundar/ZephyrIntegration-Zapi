@@ -1,4 +1,4 @@
-# Zapi-Prototype-Java
+# Zephyr integration with Automated Jenkins Tests using ZAPI
 
 Requirement
 
